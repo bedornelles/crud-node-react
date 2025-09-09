@@ -20,6 +20,7 @@ A aplicação permite adicionar, editar, listar e deletar usuários pela interfa
 - MongoDB
 
 O projeto conta com 2 pastas principais separando o backend do frontend:
+
 api-cadastro é a pasta com o codido do backend, rodar basta ter o visual studo code e o node instalado na sua máquina e abrir dois terminais
 No primeiro terminar rodar "npx prisma studio" e no outro terminal rodar "node server.js"
 
